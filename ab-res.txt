@@ -2,3 +2,4 @@ planing
 
 -web uniera
 -buat flyer
+-ux ui
